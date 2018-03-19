@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakaleWEB", "MakaleWEB\MakaleWEB.csproj", "{D58B8DE2-935B-4A75-BC8A-43C2D67B050E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makale.BLL", "Makale.BLL\Makale.BLL.csproj", "{53621B39-A975-4C48-B26D-C519B976CC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makale.DAL", "Makale.DAL\Makale.DAL.csproj", "{520140FD-CFC9-47B6-906B-6A6A3AB0E83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makale.Models", "Makale.Models\Makale.Models.csproj", "{41CFDA5D-7372-4AF7-9365-20214D291004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58B8DE2-935B-4A75-BC8A-43C2D67B050E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58B8DE2-935B-4A75-BC8A-43C2D67B050E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58B8DE2-935B-4A75-BC8A-43C2D67B050E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58B8DE2-935B-4A75-BC8A-43C2D67B050E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53621B39-A975-4C48-B26D-C519B976CC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53621B39-A975-4C48-B26D-C519B976CC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53621B39-A975-4C48-B26D-C519B976CC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53621B39-A975-4C48-B26D-C519B976CC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520140FD-CFC9-47B6-906B-6A6A3AB0E83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520140FD-CFC9-47B6-906B-6A6A3AB0E83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520140FD-CFC9-47B6-906B-6A6A3AB0E83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520140FD-CFC9-47B6-906B-6A6A3AB0E83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CFDA5D-7372-4AF7-9365-20214D291004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CFDA5D-7372-4AF7-9365-20214D291004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CFDA5D-7372-4AF7-9365-20214D291004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CFDA5D-7372-4AF7-9365-20214D291004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C212449-D8CD-4F65-98D8-20AC2005EF33}
+	EndGlobalSection
+EndGlobal
